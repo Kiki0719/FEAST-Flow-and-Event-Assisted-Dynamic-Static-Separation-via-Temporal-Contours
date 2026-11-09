@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+
+# Historical backups
+*.bak
+*.bak_*
+*.backup
+*.orig
+*.swp
+
+# Models and checkpoints
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Datasets and generated outputs
+*.ply
+*.npy
+*.npz
+*.mkv
+*.mp4
+*.avi
+*.blend
+*.zip
+outputs/
+checkpoints/
+datasets/
+logs/
+
+# Environment and local configuration
+.env
+.env.*
+!.env.example

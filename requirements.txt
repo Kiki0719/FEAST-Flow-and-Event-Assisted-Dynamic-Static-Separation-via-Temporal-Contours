@@ -1,0 +1,11 @@
+numpy
+scipy
+opencv-python
+Pillow
+torch
+torchvision
+plyfile
+einops
+tqdm
+PyYAML
+matplotlib
